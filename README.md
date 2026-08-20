@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi, I'm Krrish 👋
 
-<!--
-**krrishpandit/krrishpandit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Com (Hons.) student at the University of Delhi with interests in
+financial analysis, valuation, business strategy and data analytics.
 
-Here are some ideas to get you started:
+## Finance & Analytics Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 HUL Financial Modeling & Valuation
+**Status:** 🚧 In Progress
+
+Building an integrated financial analysis and valuation model using
+historical financial statements, forecasting and DCF methodology.
+
+**Tools:** Excel | Financial Modeling | DCF | Ratio Analysis
+
+---
+
+### 📈 FMCG Financial Analytics Dashboard
+**Status:** Planned
+
+Financial performance and peer-comparison dashboard using financial
+data from leading Indian FMCG companies.
+
+**Tools:** Power BI | Excel | Power Query | SQL
+
+---
+
+### 🐍 Portfolio Risk & Return Analyzer
+**Status:** Planned
+
+Python-based analysis of portfolio returns, volatility, Sharpe ratio,
+beta, drawdown and asset correlations.
+
+**Tools:** Python | Pandas | NumPy | Matplotlib
+
+---
+
+## Areas of Interest
+
+- Corporate Finance
+- Financial Modeling & Valuation
+- Business & Financial Analytics
+- Strategy
+- Equity Research
+- Data Analysis
+
+## Connect
+
+LinkedIn: YOUR-LINKEDIN-LINK
