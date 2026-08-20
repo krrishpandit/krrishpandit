@@ -46,4 +46,5 @@ beta, drawdown and asset correlations.
 
 ## Connect
 
-LinkedIn: YOUR-LINKEDIN-LINK
+LinkedIn: linkedin.com/in/krrish-pandit <img width="468" height="19" alt="image" src="https://github.com/user-attachments/assets/1a845846-0e98-4bba-b1d0-0033131bb0e0" />
+
