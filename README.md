@@ -18,7 +18,7 @@ financial analysis, valuation, business strategy and data analytics.
 ---
 
 ### 📈 FMCG Financial Analytics Dashboard
-**Status:** Planned
+**Status:** 🧮 In Progress
 
 Financial performance and peer-comparison dashboard using financial
 data from leading Indian FMCG companies.
