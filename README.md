@@ -5,11 +5,13 @@ financial analysis, valuation, business strategy and data analytics.
 
 ## Finance & Analytics Portfolio
 
-### 📊 HUL Financial Modeling & Valuation
-**Status:** 🚧 In Progress
+### 📊 Vedanta Demerger Value Creation or Destruction?
+**Status:** 🚧 Completed
 
-Building an integrated financial analysis and valuation model using
-historical financial statements, forecasting and DCF methodology.
+• Analysing Vedanta's conglomerate demerger to assess whether the break-up created or destroyed shareholder value
+• Applying a sum-of-the-parts valuation to each spun-off entity | Benchmarked Beside the pre-demerger Fortify valuation
+• Studying the revised capital structure and standalone debt allocation across the demerged entities post-split
+• Comparing analyst & market reaction (stock price movement, valuation rating) following the demerger announcement
 
 **Tools:** Excel | Financial Modeling | DCF | Ratio Analysis
 
