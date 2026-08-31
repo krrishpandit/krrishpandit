@@ -6,7 +6,7 @@ financial analysis, valuation, business strategy and data analytics.
 ## Finance & Analytics Portfolio
 
 ### 📊 Vedanta Demerger Value Creation or Destruction?
-**Status:** 🚧 Completed
+**Status:** ✅ Completed
 
 • Analysing Vedanta's conglomerate demerger to assess whether the break-up created or destroyed shareholder value
 • Applying a sum-of-the-parts valuation to each spun-off entity | Benchmarked Beside the pre-demerger Fortify valuation
